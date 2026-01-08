@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data
+# dataset/*.csv
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
