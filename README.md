@@ -1,4 +1,4 @@
-# Tugas UAS Kecerdasan Buatan - Klasifikasi Spesies Iris
+# UAS Kecerdasan Buatan - Klasifikasi Spesies Iris
 
 Project ini merupakan implementasi algoritma **Decision Tree** untuk mengklasifikasikan spesies bunga Iris berdasarkan fitur morfologinya. Tugas ini disusun untuk memenuhi ujian akhir semester pada mata kuliah Kecerdasan Buatan.
 
